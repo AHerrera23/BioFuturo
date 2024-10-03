@@ -32,7 +32,7 @@ h6{
     margin: 0;
 }
 button{
-    color: #DFE5E8;
+    color: #ffffff;
     font-size: 1.3rem;
     font-weight: bold;
 }
@@ -67,8 +67,7 @@ a{
 .video{
     z-index: 0;
     grid-column: 1/5;
-    grid-row: 1/5;
-    height: 100vh;
+    grid-row: 1/4;
     width: 100vw;
 }
 .imgLogo{
@@ -85,7 +84,7 @@ a{
     z-index: 1;
     display: flex;
     flex-direction: column;
-    grid-row: 3/5;
+    grid-row: 4/5;
     grid-column: 1/5;
     padding-left: 1rem;
     align-items: left;
